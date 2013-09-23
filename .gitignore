@@ -6,3 +6,4 @@ test/fixtures/*.json
 node_modules/
 node_modules/*
 npm-debug.log
+.idea/
